@@ -58,3 +58,6 @@ Analog drip monitoring system is a IV fluid monitoring system which uses no micr
 
 ## SOFTWARE SIMULATION LINK
 [click to simulate project using tinkercad](https://www.tinkercad.com/things/4KfzQUNFcQJ-dripmonitor)
+
+## AUTHOR
+Febin Joshy | November 2026
