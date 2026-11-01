@@ -49,4 +49,4 @@ Analog drip monitoring system is a IV fluid monitoring system which uses no micr
 ### Circuit Setup
 ![Circuit setup on breadboard](circuit_setup.jpg)
 
-**Circuit setup was on breadboard**
+**Circuit was setup on breadboard**
